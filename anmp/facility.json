@@ -1,0 +1,37 @@
+[
+    {
+        "id" : "1",
+		"nama" : "Loker",
+		"tempat" : "Lantai 1",
+		"description" : "Loker sebagai tempat penitipan tas pemustaka. Untuk dapat menggunakannya pemustaka wajib menyerahkan kartu identitas KTP atau SIM sebagai bahan jaminan. Harap tidak meninggalkan barang berharga di dalam loker.",
+		"photoUrl" : "http://10.0.2.2/anmp/img/facility/fa1.jpg"
+    },
+    {
+        "id" : "2", 
+		"nama" : "Ruang baca dan belajar",
+		"tempat" : "Lantai 2 & 3",
+		"description" : "Ruang baca dan belajar tempat yang cozy, instagramable dan inspirational baik lesehan serta fasilitas sofa yang nyaman sehingga dapat membaca dan belajar dengan suasana tenang dan khidmat.",
+		"photoUrl" : "http://10.0.2.2/anmp/img/facility/fa2.jpg"
+    },
+    {
+        "id" : "3", 
+		"nama" : "Insight Corner",
+		"tempat" : "Lantai 2",
+		"description" : "Insight Corner merupakan corner yang berisikan koleksi buku untuk menambah wawasan dan pengetahuan dalam bidang umum seperti bidang teknologi, kesehatan, bisnis, hukum, dan lainnya.",
+		"photoUrl" : "http://10.0.2.2/anmp/img/facility/fa4.jpg"
+    },
+    {
+        "id" : "4", 
+		"nama" : "Cinema Room",
+		"tempat" : "Lantai 4",
+		"description" : "Cinema Room yaitu ruangan yang dilengkapi dengan fasilitas mini home theater, dan sofa yang nyaman. Diruangan ini pemustaka dapat menonton film, refreshing dengan bermain game, bahkan dapat digunakan untuk belajar bersama.",
+		"photoUrl" : "http://10.0.2.2/anmp/img/facility/fa4.jpg"
+    },
+    {
+        "id" : "5", 
+		"nama" : "Computer Room",
+		"tempat" : "Lantai 3",
+		"description" : "Computer Room yaitu ruangan yang dilengkapi dengan PC komputer all in one yang dapat digunakan untuk akses koleksi e-resources perpustakaan, koleksi tugas akhir digital, koleksi e-resources yang berbasis open source di luar Perpustakaan. Selain itu ruangan ini digunakan pula untuk kegiatan pelatihan discovering research management dan Literasi Informasi dengan materi strategi penelusuran informasi ilmiah menggunakan database, pemanfaatan reference manager Mendeley, Pemanfaatan Turnitin, dan sejenisnya.",
+		"photoUrl" : "http://10.0.2.2/anmp/img/facility/fa5.jpg"
+    }
+]

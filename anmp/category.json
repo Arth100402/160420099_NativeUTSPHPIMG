@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1", 
+        "nama" : "Teknologi", 
+        "description" : "teknologi merupakan suatu kumpulan alat, aturan dan juga prosedur yang merupakan penerapan dari sebuah pengetahuan ilmiah terhadap sebuah pekerjaan tertentu dalam suatu kondisi yang dapat memungkinkan terjadinya pengulangan.", 
+        "photoUrl" : "http://10.0.2.2/anmp/img/category/1.jpg"
+    },
+    {
+        "id" : "2", 
+        "nama" :"Hukum", 
+        "description" : "Hukum adalah kumpulan peraturan yang terdiri atas norma dan sanksi-sanksi.Hukum adalah sesuatu yang berkaitan erat dengan kehidupan manusia merujuk pada sistem yang terpenting dalam pelaksanaan atas rangkaian kekuasaan penegakan hukum oleh kelembagaan penegak hukum karena segala kehidupan manusia dibatasi oleh hukum. Hukum mengatur sanksi bagi penyalahgunaan kekuasaan dalam bidang politik, ekonomi, dan masyarakat dalam berbagai cara dan bertindak sebagai perantara utama dalam hubungan sosial antar masyarakat terhadap pelanggaran hak individu dalam hukum perdata, dan hukum pidana yang mengupayakan cara negara untuk menuntut pelaku pelanggaran hukum publik.", 
+        "photoUrl" : "http://10.0.2.2/anmp/img/category/2.jpg"
+    },
+    {
+        "id" : "3", 
+        "nama" : "Kesehatan", 
+        "description" : "Kesehatan adalah kondisi kesejahteraan fisik, mental, dan sosial yang lengkap dan bukan sekadar tidak adanya penyakit atau kelemahan. Pemahaman tentang kesehatan telah bergeser seiring dengan waktu. Berkembangnya teknologi kesehatan berbasis digital telah memungkinkan setiap orang untuk mempelajari dan menilai diri mereka sendiri, dan berpartisipasi aktif dalam gerakan promosi kesehatan. Berbagai faktor sosial berpengaruh terhadap kondisi kesehatan, seperti perilaku individu, kondisi sosial, genetik dan biologi, perawatan kesehatan, dan lingkungan fisik.", 
+        "photoUrl" : "http://10.0.2.2/anmp/img/category/3.jpg"
+    },
+    {
+        "id" : "4", 
+        "nama" : "Bisnis", 
+        "description" : "Bisnis atau niaga adalah kegiatan memperjualbelikan barang atau jasa dengan tujuan memperoleh laba. Dalam ilmu ekonomi, bisnis adalah suatu organisasi yang menjual barang atau jasa kepada konsumen atau bisnis lainnya, untuk mendapatkan laba. Secara historis kata bisnis dari bahasa Inggris business, dari kata dasar busy yang berarti 'sibuk' dalam konteks individu, komunitas, ataupun masyarakat. Dalam artian, sibuk mengerjakan aktivitas dan pekerjaan yang mendatangkan keuntungan.", 
+        "photoUrl" : "http://10.0.2.2/anmp/img/category/4.jpg"
+    },
+    {
+        "id" : "5", 
+        "nama" : "Akuntansi", 
+        "description" : "Akuntansi adalah suatu proses mencatat, meringkas, mengklasifikasikan, mengolah, dan menyajikan data transaksi, serta berbagai aktivitas yang berhubungan dengan keuangan, sehingga informasi tersebut dapat digunakan oleh seseorang yang ahli di bidangnya dan menjadi bahan untuk mengambil suatu keputusan.", 
+        "photoUrl" : "http://10.0.2.2/anmp/img/category/5.jpg"
+    }
+]

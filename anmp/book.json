@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "judul": "ALL in One Web Programming",
+        "penulis": "Tim EMS",
+        "publisher": "Elex Media Komputindo",
+        "description": "Buku tentang apa saja yang dapat dipelajari dari Programming Web",
+        "category": "Teknologi",
+        "bookno": "9786020281544",
+        "pages": "211",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/1.jpg"
+    },
+    {
+        "id": "2",
+        "judul": "Algoritma dan Pemrograman dengan Bahasa Java",
+        "penulis": "Wisnu Yudo UNTORO",
+        "publisher": "Graha Ilmu",
+        "description": "Buku tentang apa saja Algoritma dan pemrograman yang dapat dipelajari dari Bahasa Java",
+        "category": "Teknologi",
+        "bookno": "9789797565763",
+        "pages": "280",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/2.jpg"
+    },
+    {
+        "id": "3",
+        "judul": "Administrasi Kepegawaian Negara",
+        "penulis": "Sahya ANGGARA",
+        "publisher": "Pustaka Setia",
+        "description": "Buku yang menjelaskan Administrasi Kepegawaian Negara",
+        "category": "Hukum",
+        "bookno": "9789790766068",
+        "pages": "339",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/3.jpg"
+    },
+    {
+        "id": "4",
+        "judul": "Advokasi : Konsep, Teknik dan Aplikasi di Bidang Kesehatan di Indonesia",
+        "penulis": "Hadi PRATOMO",
+        "publisher": "RajaGrafindo Persada",
+        "description": "Buku yang menjelaskan Konsep, Teknik dan Aplikasi Advokasi pada Bidang Kesehatan Di Indonesia",
+        "category": "Hukum",
+        "bookno": "9789797698232",
+        "pages": "370",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/4.jpg"
+    },
+    {
+        "id": "5",
+        "judul": "Ajaibnya Terapi Herbal : Tumpas Penyakit Kolesterol",
+        "penulis": "Supriyadi AMIR",
+        "publisher": "Dunia Sehat",
+        "description": "Buku yang menjelaskan Efektifnya terapi herbal untuk mengobati penyakit kolesterol",
+        "category": "Kesehatan",
+        "bookno": "9786027602182",
+        "pages": "202",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/5.jpg"
+    },
+    {
+        "id": "6",
+        "judul": "Air untuk Menjaga Kesehatan dan Menyembuhkan Penyakit",
+        "penulis": "F. BATMANGHELIDJ",
+        "publisher": "Gramedia Pust. Utama",
+        "description": "Buku yang menjelaskan Kegunaan Air untuk menjaga kesehatan dan menyembuhkan penyakit",
+        "category": "Kesehatan",
+        "bookno": "9789792226362",
+        "pages": "279",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/6.jpg"
+    },
+    {
+        "id": "7",
+        "judul": "Ekonomi Manajerial dan Strategi Bisnis",
+        "penulis": "E. Saefuddin MUBAROK",
+        "publisher": "In Media",
+        "description": "Buku yang Ekonomi Manajerial dan Strategi Bisnis",
+        "category": "Bisnis",
+        "bookno": "9786020946078",
+        "pages": "337",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/7.jpg"
+    },
+    {
+        "id": "8",
+        "judul": "Bisnis Laundry Kiloan : Cara Sukses Membangun dan Mengembangkan Bisnis Laundry Kiloan",
+        "penulis": "Venecia DAMAYANTHIE",
+        "publisher": "StarBooks",
+        "description": "Buku yang menjelaskan bagaimana cara sukses dengan membangun dan mengembangkan bisnis laundry kiloan",
+        "category": "Bisnis",
+        "bookno": "9789792547429",
+        "pages": "117",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/8.jpg"
+    },
+    {
+        "id": "9",
+        "judul": "Matematika Terapan untuk Bisnis dan Ekonomi",
+        "penulis": "MARKONAH , Hedwigis Esti RIWAYATI",
+        "publisher": "In Media",
+        "description": "Buku yang menjelaskan Matematika yang diterapkan pada bisnis dan ekonomi",
+        "category": "Akuntansi",
+        "bookno": "9786020946092",
+        "pages": "134",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/9.jpg"
+    },
+    {
+        "id": "10",
+        "judul": "Manajemen Keuangan Bisnis : Konsep dan Aplikasinya",
+        "penulis": "Abdul HALIM",
+        "publisher": "Mitra Wacana Media",
+        "description": "Buku yang menjelaskan Konsep dan Aplikasi dari Manajemen keuangan bisnis",
+        "category": "Bisnis",
+        "bookno": "9786023180257",
+        "pages": "314",
+        "language": "Indonesia",
+        "photoUrl": "http://10.0.2.2/anmp/img/book/10.jpg"
+    }
+]
